@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 18, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Shira Menaged)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The purpose of this assignment is to test our knowledge of command learned in class to then produce a working expense calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://sm16aj.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Calculating percentages with multiple categories.)
+2. (initializing variable.)
+3. (storing input in memory.)
 
